@@ -5,7 +5,7 @@ def my_collect(arr)
     while arr.length > i 
     i.upcase
 end
-
+end
 
 
 
