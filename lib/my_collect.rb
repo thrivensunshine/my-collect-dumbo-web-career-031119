@@ -6,6 +6,6 @@ def my_collect(arr)
     i.upcase
 end
 end
-
+end
 
 
