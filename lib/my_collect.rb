@@ -3,7 +3,7 @@ def my_collect(arr)
     i= 0
     
     while arr.length > i 
-    i++
+    i.upcas
 end
 
 
