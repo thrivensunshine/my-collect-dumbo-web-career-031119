@@ -1,5 +1,5 @@
 def my_collect(arr)
-  while 
+  if block_given?
 end
 
 
